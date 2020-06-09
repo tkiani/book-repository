@@ -1,4 +1,4 @@
-# book-repository
+# Book-Repository
 
 This website is an applicaton of a MERN stack:
 
